@@ -1,5 +1,5 @@
 # GifTastic
-![GifTastic](https://drive.google.com/open?id=18KLEXxnaxdVKDo8oO2F-mBLqUApzDLAJ)
+
 Live Site: [GifTastic](https://henrymontesanoiii.github.io/GifTastic/)
 ----
 
